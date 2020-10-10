@@ -1,6 +1,6 @@
 # Terraform による AWS(VPC, EC2)の構築
 
-<img src="">
+<img src="https://github.com/kyokozuka/terraform-VPC-EC2/blob/main/terroform-logo.png">
 
 ## 事前準備
 1. IAMにてCLIアカウント作成
