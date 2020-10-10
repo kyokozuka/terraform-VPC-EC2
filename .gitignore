@@ -1,0 +1,3 @@
+/envs/develop/.terraform/
+/envs/develop/terraform.tfstate
+/envs/develop/terraform.tfstate.backup
